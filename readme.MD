@@ -54,3 +54,5 @@ Gerenciador de rotas
 Para ficar escurtando a porta
 
     yarn add --dev ts-node-dev
+
+    yarn add --dev http-status-codes
