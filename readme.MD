@@ -37,3 +37,20 @@ Deletação do usuário
     npm install -g typescript
     |
     tsc --init
+    |
+    yarn add --dev typescript
+
+Para ter o autocomplete
+
+    yarn add --dev @types/node
+
+## Express
+Gerenciador de rotas
+
+    yarn add express
+    |
+    yarn add --dev @types/express
+
+Para ficar escurtando a porta
+
+    yarn add --dev ts-node-dev
