@@ -56,3 +56,14 @@ Para ficar escurtando a porta
     yarn add --dev ts-node-dev
 
     yarn add --dev http-status-codes
+
+## Node-Postgres
+
+    npm i 
+    |
+    yarn add --dev @types/pg
+
+Banco em nuvem gratuito
+
+    https://www.elephantsql.com/
+
